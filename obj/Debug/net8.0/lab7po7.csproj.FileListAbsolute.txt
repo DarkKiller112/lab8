@@ -1,0 +1,15 @@
+C:\Users\tihon\source\repos\lab7po7\lab7po7\bin\Debug\net8.0\lab7po7.exe
+C:\Users\tihon\source\repos\lab7po7\lab7po7\bin\Debug\net8.0\lab7po7.deps.json
+C:\Users\tihon\source\repos\lab7po7\lab7po7\bin\Debug\net8.0\lab7po7.runtimeconfig.json
+C:\Users\tihon\source\repos\lab7po7\lab7po7\bin\Debug\net8.0\lab7po7.dll
+C:\Users\tihon\source\repos\lab7po7\lab7po7\bin\Debug\net8.0\lab7po7.pdb
+C:\Users\tihon\source\repos\lab7po7\lab7po7\obj\Debug\net8.0\lab7po7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tihon\source\repos\lab7po7\lab7po7\obj\Debug\net8.0\lab7po7.AssemblyInfoInputs.cache
+C:\Users\tihon\source\repos\lab7po7\lab7po7\obj\Debug\net8.0\lab7po7.AssemblyInfo.cs
+C:\Users\tihon\source\repos\lab7po7\lab7po7\obj\Debug\net8.0\lab7po7.csproj.CoreCompileInputs.cache
+C:\Users\tihon\source\repos\lab7po7\lab7po7\obj\Debug\net8.0\lab7po7.sourcelink.json
+C:\Users\tihon\source\repos\lab7po7\lab7po7\obj\Debug\net8.0\lab7po7.dll
+C:\Users\tihon\source\repos\lab7po7\lab7po7\obj\Debug\net8.0\refint\lab7po7.dll
+C:\Users\tihon\source\repos\lab7po7\lab7po7\obj\Debug\net8.0\lab7po7.pdb
+C:\Users\tihon\source\repos\lab7po7\lab7po7\obj\Debug\net8.0\lab7po7.genruntimeconfig.cache
+C:\Users\tihon\source\repos\lab7po7\lab7po7\obj\Debug\net8.0\ref\lab7po7.dll
